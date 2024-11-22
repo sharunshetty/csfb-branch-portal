@@ -14,11 +14,11 @@
  **/
 
 /** Product Configuration */
-define('PRODUCT_NAME', 'SDFFF Assisted Branch Portal');
-define('PRODUCT_VERSION', '1.0.0');
+define('PRODUCT_NAME', 'Branch Portal 123');
+define('PRODUCT_VERSION', 'ff1.0.0');
 
 /** Application */
-define('APP_CODE', 'Branch Portal');
+define('APP_CODE', 'fffBranch Portal');
 define('APP_URL', '/uat-branch-portal/web-app');
 
 /** Content Delivery Network */
