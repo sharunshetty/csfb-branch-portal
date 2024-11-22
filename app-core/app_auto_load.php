@@ -14,7 +14,7 @@
  **/
 
 /** Product Configuration */
-define('PRODUCT_NAME', 'Assisted Branch Portal');
+define('PRODUCT_NAME', 'SDFFF Assisted Branch Portal');
 define('PRODUCT_VERSION', '1.0.0');
 
 /** Application */
