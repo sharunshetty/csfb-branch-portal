@@ -14,7 +14,7 @@
  **/
 
 /** Product Configuration */
-define('PRODUCT_NAME', '123Branch Portal');
+define('PRODUCT_NAME', '1ffddBranch Portal');
 define('PRODUCT_VERSION', '54561.0.0');
 
 /** Application */
